@@ -12,7 +12,7 @@ pip install -r requirements.txt
 python grid_generator.py
 ```
 ### Input Image
-![input_image](map.pgm "Input PGM file")
+![input_image](input.png "Input PGM file")
 
 ### Output Image
 ![output_image](output.png "Visualization of the output")
